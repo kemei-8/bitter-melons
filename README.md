@@ -1,2 +1,2 @@
 # bitter-melons
-my personal project
+This is my personal website, created to showcase my photography project. 
